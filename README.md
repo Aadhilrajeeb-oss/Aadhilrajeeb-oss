@@ -17,6 +17,28 @@ Here are some ideas to get you started:
 
 ---
 
+About Me
+
+Skills
+
+Projects
+
+GitHub Stats
+
+Trophies
+
+Activity Graph
+
+Connect With Me
+
+──────────────────────────
+
+🐍 Contribution Snake
+
+[Animated Snake]
+
+──────────────────────────
+
 ## 🐍 Contribution Snake
 
 <p align="center">
