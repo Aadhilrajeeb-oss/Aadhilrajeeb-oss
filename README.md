@@ -1,38 +1,125 @@
-```console
-Last login: Today on github
+<div align="center">
 
-aadhil@cloud:~$ whoami
-Muhammed Aadhil Rajeeb
+# ☁️ CLOUD OPERATIONS DASHBOARD
 
-aadhil@cloud:~$ hostname
-cloud-devops-engineer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1500&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code;CI%2FCD+Automation;Always+Learning+🚀" />
 
-aadhil@cloud:~$ uptime
-365 days, 24/7 Learning
+</div>
 
-aadhil@cloud:~$ kubectl get pods
+---
 
-NAME                        STATUS      READY
-api-server                  Running     1/1
-docker-engine               Running     1/1
-terraform                   Applied     ✔
-prometheus                  Running     1/1
-grafana                     Running     1/1
-github-actions              Passing     ✔
-
-aadhil@cloud:~$ aws sts get-caller-identity
-
-Account : Cloud Builder
-Region  : ap-south-1
-
-aadhil@cloud:~$ terraform plan
-
-No changes.
-Infrastructure is up-to-date.
-
-aadhil@cloud:~$ echo $MISSION
-
-"Build scalable, secure and automated cloud infrastructure."
-
-aadhil@cloud:~$ █
+```text
+╔════════════════════════════════════════════════════════════╗
+║                    CLOUD STATUS PANEL                     ║
+╠════════════════════════════════════════════════════════════╣
+║ 👨‍💻 Engineer        : Muhammed Aadhil Rajeeb               ║
+║ 🌍 Location        : India                               ║
+║ ☁️ Role            : Cloud & DevOps Engineer             ║
+║ ⚡ Experience      : AWS • Docker • Terraform            ║
+║ 🐧 Platform        : Linux                               ║
+║ 🚀 Status          : BUILDING THE FUTURE                 ║
+╚════════════════════════════════════════════════════════════╝
 ```
+
+---
+
+# 🛰 Infrastructure Status
+
+| Service | Status |
+|---------|--------|
+| ☁ AWS | 🟢 Online |
+| 🐳 Docker | 🟢 Running |
+| ☸ Kubernetes | 🟢 Healthy |
+| 🌍 Terraform | 🟢 Applied |
+| ⚙ GitHub Actions | 🟢 Active |
+| 📈 Prometheus | 🟢 Monitoring |
+| 📊 Grafana | 🟢 Dashboards Ready |
+| 📝 Linux | 🟢 Operational |
+
+---
+
+# ⚙ Current Deployment
+
+```yaml
+Cloud Provider : AWS
+
+Infrastructure : Terraform
+
+Containers : Docker
+
+Orchestration : Kubernetes
+
+Monitoring : Prometheus + Grafana + Loki
+
+Automation : GitHub Actions
+
+Scripting : Python + Bash
+
+Operating System : Linux
+```
+
+---
+
+# 📡 Architecture
+
+```text
+                    👨‍💻 Developer
+                          │
+                          ▼
+                 GitHub Repository
+                          │
+                GitHub Actions CI/CD
+                          │
+                          ▼
+                 Docker Image Build
+                          │
+                          ▼
+                    Amazon ECR
+                          │
+                          ▼
+               Kubernetes Cluster
+                          │
+          ┌───────────────┴──────────────┐
+          ▼                              ▼
+    Application                  Monitoring
+                                        │
+                         Prometheus → Grafana
+```
+
+---
+
+# 📫 Connect
+
+<p align="center">
+
+<a href="https://github.com/Aadhilrajeeb-oss">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Infrastructure as Code • Cloud Native • Automation • DevOps
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Aadhilrajeeb-oss/Aadhilrajeeb-oss/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
